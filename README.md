@@ -24,7 +24,7 @@ def authenticate_user():
 
 def banking_services():
     balance = 1000  # Initial balance
-    transactions = []
+    transactions =[]
     
     while True:
         print("\nBanking Services:")
